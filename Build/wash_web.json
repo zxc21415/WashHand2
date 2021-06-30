@@ -1,7 +1,7 @@
 {
 "companyName": "DyAF",
 "productName": "wash",
-"productVersion": "0.1",
+"productVersion": "0.2",
 "dataUrl": "wash_web.data.unityweb",
 "wasmCodeUrl": "wash_web.wasm.code.unityweb",
 "wasmFrameworkUrl": "wash_web.wasm.framework.unityweb",
